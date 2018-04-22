@@ -1,7 +1,7 @@
 # CS121_OpenSourceActivity
 
 | Criterion        | Evaluation Data           | Score |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | Project Name & URL   | Front-End-Checklist https://github.com/thedaviddias/Front-End-Checklist | --- |
 | Licensing | Use CC0 license |2|
 |Language|Javascript > CSS > html|2|
